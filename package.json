@@ -2,6 +2,7 @@
   "dependencies": {
     "@types/node": "^18.8.0",
     "colorts": "^0.1.63",
+    "dotenv": "^16.0.3",
     "node-fetch": "^3.2.10"
   }
 }
